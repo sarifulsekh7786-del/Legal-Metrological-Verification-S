@@ -1,0 +1,6 @@
+{
+  "name": "Legal Metrology Verification System",
+  "description": "Inspection, geofenced verification, and HMAC-signed QR certificate system for Legal Metrology Officers, Traders, Admins, and Public Verification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
